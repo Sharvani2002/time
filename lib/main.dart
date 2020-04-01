@@ -5,8 +5,9 @@ import 'pages/choose_location.dart';
 import 'pages/loading.dart';
 
 void main() => runApp(MaterialApp(
+  debugShowCheckedModeBanner: false,
   //home: Home(),
-  initialRoute: '/home',
+  initialRoute: '/',
   routes: {
     '/': (context) => Loading(),
     '/home': (context) => Home(),
