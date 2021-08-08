@@ -1,6 +1,9 @@
-# world_time
+<!-- # world_time -->
+# Time
 
-A Flutter application that shows world time.
-And also has animations with better UI/UX.
-New improvements will be added
+A Flutter application that shows the world time.
 
+![Time Demo](Demo/demo1.gif)
+
+Added animations with better UI/UX.
+New improvements will be added later.
